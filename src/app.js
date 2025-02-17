@@ -16,6 +16,8 @@ var listItem = document.getElementById('list-container');
 
 
 function addValues() {
+ values = document.getElementById("values");
+ 
 
 }
 
